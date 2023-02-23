@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="eb5f25bb-3d7a-469f-bb2a-287bc64b109c" ChangeDateTime="02/16/2023 13:18:12">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="code" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2b5d7a40-461b-4363-813d-b120c667fe4a" ChangeDateTime="02/16/2023 13:19:18">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[code]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Code" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="2e2ed872-4a57-471e-b12e-20dc66817d7b" ChangeDateTime="02/16/2023 13:19:24">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Voucher_id" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="73e25a5c-1173-4a73-afd1-9a4e08970bf6" ChangeDateTime="02/16/2023 13:27:30">
+    <Property Name="ElementName" Value="[dbo].[FK_VoucherCode_To]" />
+    <Property Name="ElementType" Value="SqlForeignKeyConstraint" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="[FK_VoucherCode_ToVoucher]" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="fcbae231-98ed-44b9-ae09-7f5fc6d5ef27" ChangeDateTime="02/16/2023 13:38:47">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Code" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="0488d1b8-21ee-41ff-af96-729e279f38a7" ChangeDateTime="02/16/2023 13:41:43">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="as" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="c316dce5-dd1f-4842-8ef3-30c13923e258" ChangeDateTime="02/16/2023 13:48:01">
+    <Property Name="ElementName" Value="[dbo].[VoucherCode].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[VoucherCode]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Code" />
+  </Operation>
+</Operations>
