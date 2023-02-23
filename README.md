@@ -10,7 +10,7 @@ Uzduotyje nurodyta kokie turi buti uzklausos parametrai, taciau nusprendziau sie
 <li>Padaryt VoucherDb projekto publish. Duombazes pavadinimas "Db". Jeigu neveiks, reikes pakeisti connection string in appsettings.json file.
   <li>Sukurti Voucher su api/voucher POST uzklausa (grazins sukurto voucher id)</li>
   <li>Sugeneruoti kodus su api/voucher/generate-codes POST uzklausa</li>
-  <li>Panaudoti koda su api/voucher/use-code POIST uzklausa</li>
+  <li>Panaudoti koda su api/voucher/use-code POST uzklausa</li>
 </ol>
 <h2>Papildoma informacija</h2>
 <p>Kuriant voucher kodus reikes nurodyti simboliu skaiciu ir kodu kieki. Uzduotyje pamineta, jog 7 ar 8 simboliai(tad ivedus kita skaiciu grazins FALSE) ir nuo 1000 iki 2000 vienetu (tad ivedus maziau uz 1000 ar daugiau uz 2000 grazins FALSE)</p>
