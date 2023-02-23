@@ -16,7 +16,7 @@ Uzduotyje nurodyta kokie turi buti uzklausos parametrai, taciau nusprendziau sie
 <h1>
 LABAI LABAI LABAI PRASAU :sweat_smile:
 </h1>
-<p>Net jeigu viskas padaryta labai blogai/blogai ar ant tiek kad net nenoresit su manim susisiekt, visvien prasau, nors parasykit emaila su feedback'u, nes man tai yra labai svarbu.</p>
+<p>Net jeigu viskas padaryta labai blogai/blogai/taip, kad net nenoresit su manim susisiekt -  visvien prasau, nors parasykit emaila su feedback'u, nes man tai yra labai svarbu.</p>
 
 </br></br>
 Pagarbiai.
