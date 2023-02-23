@@ -7,7 +7,7 @@ Uzduotyje nurodyta kokie turi buti uzklausos parametrai, taciau nusprendziau sie
 </p>
 <h2>Naudojimas</h2>
 <ol>
-<li>Padaryty VoucherDb projekto publish. Duombazes pavadinimas "Db". Jeigu neveiks, reikes pakeisti connection string in appsettings.json file.
+<li>Padaryt VoucherDb projekto publish. Duombazes pavadinimas "Db". Jeigu neveiks, reikes pakeisti connection string in appsettings.json file.
   <li>Sukurti Voucher su api/voucher POST uzklausa (grazins sukurto voucher id)</li>
   <li>Sugeneruoti kodus su api/voucher/generate-codes POST uzklausa</li>
   <li>Panaudoti koda su api/voucher/use-code POIST uzklausa</li>
