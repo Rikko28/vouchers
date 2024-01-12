@@ -14,10 +14,5 @@ Uzduotyje nurodyta kokie turi buti uzklausos parametrai, taciau nusprendziau sie
 </ol>
 <h2>Papildoma informacija</h2>
 <p>Kuriant voucher kodus reikes nurodyti simboliu skaiciu ir kodu kieki. Uzduotyje pamineta, jog 7 ar 8 simboliai(tad ivedus kita skaiciu grazins FALSE) ir nuo 1000 iki 2000 vienetu (tad ivedus maziau uz 1000 ar daugiau uz 2000 grazins FALSE)</p>
-<h1>
-LABAI LABAI LABAI PRASAU :sweat_smile:
-</h1>
-<p>Net jeigu viskas padaryta labai blogai/blogai/taip, kad net nenoresit su manim susisiekt -  visvien prasau, nors parasykit emaila su feedback'u, nes man tai yra labai svarbu.</p>
 
-</br></br>
 Pagarbiai.
